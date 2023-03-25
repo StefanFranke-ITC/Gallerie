@@ -2,6 +2,7 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import HomeView from '../views/HomeView.vue'
 import GallerieView from "@/views/GallerieView";
+import ImpressumView from "@/views/ImpressumView";
 
 Vue.use(VueRouter)
 
@@ -15,6 +16,12 @@ const routes = [
     path: '/gallerie',
     name: 'gallerie',
     component: GallerieView
+  },
+
+  {
+    path: '/impressum',
+    name: 'impressum',
+    component: ImpressumView
   },
 
 ]

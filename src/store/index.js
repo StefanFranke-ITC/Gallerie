@@ -7,13 +7,13 @@ export default new Vuex.Store({
   state: {
     jochenAnzeige: true,
     marinaAnzeige: false,
-    head:"Joche's Bilder",
+    head:"Jochen's Bilder",
     bilderJochen:[{
       bild: require('../assets/J1.png'),
       beschreibung:'Acryl auf Leinwand',preis: '400',
       status: 'Vorhanden',
       name:'Finsternis',
-      nummer:'89362',
+      nummer:'100',
       größe:'40x50',
     },
       {
@@ -21,7 +21,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl auf Leinwand',preis: '400',
         status: 'Vorhanden',
         name:'Cosmos',
-        nummer:'89362',
+        nummer:'101',
         größe:'40x50',
       },
       {
@@ -29,7 +29,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl auf Leinwand',preis: '400',
         status: 'Vorhanden',
         name:'Atom',
-        nummer:'89362',
+        nummer:'102',
         größe:'40x50',
 
       },
@@ -38,7 +38,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl auf Leinwand',preis: '550',
         status: 'vorhanden',
         name:'Fluid',
-        nummer:'8312',
+        nummer:'103',
         größe:'40x50',
 
       },
@@ -47,7 +47,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl auf Leinwand',preis: '350',
         status: 'Vorhanden',
         name:'Underground',
-        nummer:'89362',
+        nummer:'104',
         größe:'30x40',
 
       },
@@ -56,7 +56,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl auf Leinwand',preis: '450',
         status: 'Vorhanden',
         name:'Invasion',
-        nummer:'89362',
+        nummer:'105',
         größe:'40x50',
 
       },
@@ -66,7 +66,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl auf Leinwand',preis: '150',
         status: 'Vorhanden',
         name:'Lost Place',
-        nummer:'89362',
+        nummer:'106',
         größe:'18x24',
 
       },
@@ -75,7 +75,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl auf Leinwand',preis: '150',
         status: 'Vorhanden',
         name:'Think',
-        nummer:'89362',
+        nummer:'107',
         größe:'18x24',
 
       },
@@ -84,7 +84,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl auf Leinwand',preis: '500',
         status: 'Vorhanden',
         name:'Comic Arts',
-        nummer:'89362',
+        nummer:'108',
         größe:'50x50',
 
       },
@@ -93,7 +93,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl auf Leinwand',preis: '500',
         status: 'Vorhanden',
         name:'Iceland',
-        nummer:'89362',
+        nummer:'109',
         größe:'70x30',
 
       },
@@ -102,7 +102,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl auf Leinwand',preis: '600',
         status: 'Vorhanden',
         name:'Dom',
-        nummer:'89362',
+        nummer:'110',
         größe:'70x30',
 
       },
@@ -111,7 +111,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl auf Leinwand',preis: '500',
         status: 'Vorhanden',
         name:'Comic Arts 2',
-        nummer:'89362',
+        nummer:'111',
         größe:'50x70',
 
       },
@@ -120,7 +120,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl auf Leinwand',preis: '200',
         status: 'Vorhanden',
         name:'Heart',
-        nummer:'89362',
+        nummer:'112',
         größe:'22x16',
 
       },
@@ -129,7 +129,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl auf Leinwand',preis: '200',
         status: 'Vorhanden',
         name:'Heart 2',
-        nummer:'89362',
+        nummer:'113',
         größe:'22x16',
 
       },
@@ -138,7 +138,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl auf Leinwand',preis: '600',
         status: 'Vorhanden',
         name:'Loki',
-        nummer:'89362',
+        nummer:'114',
         größe:'60x30',
 
       },
@@ -147,7 +147,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl auf Leinwand',preis: '900',
         status: 'Vorhanden',
         name:'Future view',
-        nummer:'89362',
+        nummer:'115',
         größe:'74x57',
 
       },
@@ -156,7 +156,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl auf Leinwand',preis: '800',
         status: 'Vorhanden',
         name:'Merge',
-        nummer:'89362',
+        nummer:'116',
         größe:'50x40',
 
       },
@@ -165,7 +165,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl auf Leinwand',preis: '400',
         status: 'Vorhanden',
         name:'Sky Island',
-        nummer:'89362',
+        nummer:'117',
         größe:'30x30',
 
       },
@@ -174,7 +174,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl auf Leinwand',preis: '500',
         status: 'Vorhanden',
         name:'Wormhole',
-        nummer:'89362',
+        nummer:'118',
         größe:'40x40',
 
       },
@@ -183,7 +183,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl auf Leinwand',preis: '1100',
         status: 'Vorhanden',
         name:'Destination',
-        nummer:'89362',
+        nummer:'119',
         größe:'40x120',
 
       },
@@ -192,16 +192,16 @@ export default new Vuex.Store({
         beschreibung:'Acryl auf Leinwand',preis: '500',
         status: 'Vorhanden',
         name:'Starlight',
-        nummer:'89362',
+        nummer:'120',
         größe:'60x80',
 
       },
       {
         bild: require('../assets/J23.png'),
-        beschreibung:'',preis: '400',
+        beschreibung:'Acryl auf Leinwand',preis: '400',
         status: 'Vorhanden',
         name:'Ice Barrier',
-        nummer:'89362',
+        nummer:'121',
         größe:'38x28',
 
       },
@@ -210,7 +210,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl auf Leinwand',preis: '1300',
         status: 'Vorhanden',
         name:'Bullseye',
-        nummer:'89362',
+        nummer:'123',
         größe:'100x120',
 
       },
@@ -219,7 +219,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl auf Leinwand',preis: '900',
         status: 'Vorhanden',
         name:'Bifröst',
-        nummer:'89362',
+        nummer:'124',
         größe:'90x30',
 
       },
@@ -228,7 +228,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl auf Leinwand',preis: '400',
         status: 'Vorhanden',
         name:'Ying & Yang',
-        nummer:'89362',
+        nummer:'125',
         größe:'40x40',
 
       },
@@ -237,7 +237,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl auf Leinwand',preis: '600',
         status: 'Vorhanden',
         name:'Incubation',
-        nummer:'89362',
+        nummer:'126',
         größe:'90x30',
 
       },
@@ -246,7 +246,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl auf Leinwand',preis: '200',
         status: 'Vorhanden',
         name:'Jahreszeiten',
-        nummer:'89362',
+        nummer:'127',
         größe:'30x30',
 
       },
@@ -255,7 +255,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl auf Leinwand',preis: '500',
         status: 'Vorhanden',
         name:'Utopia',
-        nummer:'89362',
+        nummer:'128',
         größe:'50x70',
 
       },
@@ -264,7 +264,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl auf Leinwand',preis: '200',
         status: 'Vorhanden',
         name:'Galaxy',
-        nummer:'89362',
+        nummer:'129',
         größe:'30x30',
 
       },
@@ -273,7 +273,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl auf Leinwand',preis: '600',
         status: 'Vorhanden',
         name:'Tschernobyl',
-        nummer:'89362',
+        nummer:'130',
         größe:'40x40',
 
       },
@@ -282,7 +282,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl auf Leinwand',preis: '300',
         status: 'Vorhanden',
         name:'Core',
-        nummer:'89362',
+        nummer:'131',
         größe:'30x30',
 
       }],
@@ -296,7 +296,7 @@ export default new Vuex.Store({
       preis: '300',
       status: 'Vorhanden',
       name:'Pfau',
-      nummer:'89362',
+      nummer:'132',
       größe:'40x50',
 
     },
@@ -305,7 +305,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl Pooring Leinwand',preis: '120',
         status: 'Vorhanden',
         name:'Lagune',
-        nummer:'89362',
+        nummer:'133',
         größe:'30x20',
       },
       {
@@ -313,7 +313,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl Pooring Leinwand',preis: '250',
         status: 'Vorhanden',
         name:'Ströhmung',
-        nummer:'89362',
+        nummer:'134',
         größe:'30x30',
       },
       {
@@ -321,7 +321,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl Pooring Leinwand',preis: '300',
         status: 'Vorhanden',
         name:'Bodenlos',
-        nummer:'89362',
+        nummer:'135',
         größe:'30x30',
       },
       {
@@ -329,7 +329,7 @@ export default new Vuex.Store({
         beschreibung:'Blattgold Öl auf Leinwand',preis: '900 ',
         status: 'Vorhanden',
         name:'Meditation ',
-        nummer:'89362',
+        nummer:'136',
         größe:'30x40 50x70 30x40',
       },
       {
@@ -338,7 +338,7 @@ export default new Vuex.Store({
         preis: '320',
         status: 'Vorhanden',
         name:'Butterflyeffect ',
-        nummer:'89362',
+        nummer:'137',
         größe:'40x40',
       },
       {
@@ -347,7 +347,7 @@ export default new Vuex.Store({
         preis: '900',
         status: 'Vorhanden',
         name:'Butterfly 1',
-        nummer:'89362',
+        nummer:'138',
         größe:'70x100',
       },
       {
@@ -355,7 +355,7 @@ export default new Vuex.Store({
         beschreibung:'Öl auf Leinwand',preis: '400',
         status: 'Vorhanden',
         name:'Butterfly 2',
-        nummer:'89362',
+        nummer:'139',
         größe:'40x50',
       },
       {
@@ -363,7 +363,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl Pooring Leinwand',preis: '400',
         status: 'Vorhanden',
         name:'Twistet Pair',
-        nummer:'89362',
+        nummer:'140',
         größe:'30x60',
       },
       {
@@ -371,7 +371,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl Pooring Leinwand',preis: '400',
         status: 'Vorhanden',
         name:'Bubbles',
-        nummer:'89362',
+        nummer:'141',
         größe:'30x80',
       },
       {
@@ -379,7 +379,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl Pooring Leinwand',preis: '300',
         status: 'Vorhanden',
         name:'Twistet Pair 2',
-        nummer:'89362',
+        nummer:'142',
         größe:'40x30',
       },
       {
@@ -387,7 +387,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl Pooring Leinwand',preis: '200',
         status: 'Vorhanden',
         name:'Unterwasser Welten',
-        nummer:'89362',
+        nummer:'143',
         größe:'20x60',
       },
       {
@@ -395,7 +395,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl Pooring Leinwand',preis: '200',
         status: 'Vorhanden',
         name:'Ebbe',
-        nummer:'89362',
+        nummer:'144',
         größe:'58x58',
       },
       {
@@ -403,7 +403,7 @@ export default new Vuex.Store({
         beschreibung:'Öl auf Leinwand',preis: '150',
         status: 'Vorhanden',
         name:'Gentleman',
-        nummer:'89362',
+        nummer:'145',
       größe:'30x70',
       },
       {
@@ -411,7 +411,7 @@ export default new Vuex.Store({
         beschreibung:'Öl auf Leinwand',preis: '600',
         status: 'Vorhanden',
         name:'Coffee Time',
-        nummer:'89362',
+        nummer:'146',
       größe:'20x50 22x32',
       },
       {
@@ -419,7 +419,7 @@ export default new Vuex.Store({
         beschreibung:'Öl auf Leinwand',preis: '130',
         status: 'Vorhanden',
         name:'Coffe Latte 1',
-        nummer:'89362',
+        nummer:'147',
       größe:'30x30',
       },
       {
@@ -427,7 +427,7 @@ export default new Vuex.Store({
         beschreibung:'Öl auf Leinwand',preis: '130',
         status: 'Vorhanden',
         name:'Moca',
-        nummer:'89362',
+        nummer:'148',
         größe:'30x30',
 
       },
@@ -436,7 +436,7 @@ export default new Vuex.Store({
         beschreibung:'Öl auf Leinwand',preis: '330',
         status: 'Vorhanden',
         name:'Regencalla',
-        nummer:'89362',
+        nummer:'149',
         größe:'40x30',
       },
       {
@@ -444,7 +444,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl Pooring Leinwand',preis: '150',
         status: 'Vorhanden',
         name:'Seezunge',
-        nummer:'89362',
+        nummer:'150',
       größe:'20x30',
       },
       {
@@ -452,7 +452,7 @@ export default new Vuex.Store({
         beschreibung:"Acryl Pooring Leinwand",preis: '600',
         status: 'Vorhanden',
         name:'Amytist',
-        nummer:'89362',
+        nummer:'151',
       größe:'50x50',
       },
       {
@@ -460,7 +460,7 @@ export default new Vuex.Store({
         beschreibung:'Öl auf Leinwand',preis: '600',
         status: 'Vorhanden',
         name:'Freesien',
-        nummer:'89362',
+        nummer:'152',
         größe:'50x70',
       },
       {
@@ -468,7 +468,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl Pooring Leinwand',preis: '1000',
         status: 'Vorhanden',
         name:'Floora',
-        nummer:'89362',
+        nummer:'153',
         größe:'28x38 80x80 34x44',
       },
       {
@@ -476,7 +476,7 @@ export default new Vuex.Store({
         beschreibung:'Öl',preis: '100',
         status: 'Vorhanden',
         name:'Geometrie 1',
-        nummer:'89362',
+        nummer:'154',
         größe:'50x70',
       },
       {
@@ -484,7 +484,7 @@ export default new Vuex.Store({
         beschreibung:'Öl',preis: '100',
         status: 'Vorhanden',
         name:'Geometrie 2',
-        nummer:'89362',
+        nummer:'155',
         größe:'50x70',
       },
       {
@@ -492,7 +492,7 @@ export default new Vuex.Store({
         beschreibung:'Öl auf Holz',preis: '200',
         status: 'Vorhanden',
         name:'Alchemie',
-        nummer:'89362',
+        nummer:'156',
         größe:'41x41',
       },
       {
@@ -500,7 +500,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl Pooring Leinwand',preis: '250',
         status: 'Vorhanden',
         name:'Wasser Phönix',
-        nummer:'89362',
+        nummer:'157',
         größe:'30x30',
       },
       {
@@ -508,7 +508,7 @@ export default new Vuex.Store({
         beschreibung:'Öl auf Leinwand',preis: '700',
         status: 'Vorhanden',
         name:'Rote Calla',
-        nummer:'89362',
+        nummer:'158',
         größe:'80x54',
       },
       {
@@ -516,15 +516,15 @@ export default new Vuex.Store({
         beschreibung:'Acryl Pooring Leinwand',preis: '700',
         status: 'Vorhanden',
         name:'Rote Flut',
-        nummer:'89362',
+        nummer:'159',
          größe:'70x50',
       },
       {
         bild: require('../assets/M30.png'),
         beschreibung:'Acryl Pooring Leinwand',preis: '500',
-        status: 'Vorhanden',
+        status: 'Verkauft',
         name:'Albtraum',
-        nummer:'89362',
+        nummer:'160',
         größe:'60x60',
       },
       {
@@ -532,15 +532,15 @@ export default new Vuex.Store({
         beschreibung:'Acryl Pooring Leinwand',preis: '600',
         status: 'Vorhanden',
         name:'Ebbe 2',
-        nummer:'89362',
-      größe:'60x60',
+        nummer:'161',
+        größe:'60x60',
       },
       {
         bild: require('../assets/M32.png'),
         beschreibung:'Öl auf Leinwand',preis: '800',
         status: 'Vorhanden',
         name:'Raum der Zeit',
-        nummer:'89362',
+        nummer:'162',
       größe:'80x60',
       },
       {
@@ -548,7 +548,7 @@ export default new Vuex.Store({
         beschreibung:'Öl auf Leinwand',preis: '700',
         status: 'Vorhanden',
         name:'Raum der Zeit 2',
-        nummer:'89362',
+        nummer:'163',
         größe:'40x80',
       },
       {
@@ -556,7 +556,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl Pooring Leinwand',preis: '300',
         status: 'Vorhanden',
         name:'Federkleid',
-        nummer:'89362',
+        nummer:'164',
       größe:'30x40',
       },
       {
@@ -564,7 +564,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl Pooring Leinwand',preis: '250',
         status: 'Vorhanden',
         name:'Bodenlos 2',
-        nummer:'89362',
+        nummer:'165',
       größe:'30x30',
       },
       {
@@ -572,7 +572,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl Leinwand',preis: '100',
         status: 'Vorhanden',
         name:'Floora 2',
-        nummer:'89362',
+        nummer:'166',
       größe:'50x40',
       },
       {
@@ -580,7 +580,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl Leinwand',preis: '100',
         status: 'Vorhanden',
         name:'Colibri',
-        nummer:'89362',
+        nummer:'167',
       größe:'40x30',
       },
       {
@@ -588,7 +588,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl Leinwand',preis: '80',
         status: 'Vorhanden',
         name:'Portrait Ramen',
-        nummer:'89362',
+        nummer:'168',
       größe:'40x40',
       },
       {
@@ -596,7 +596,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl Pooring Leinwand',preis: '200',
         status: 'Vorhanden',
         name:'Algenblüten 1',
-        nummer:'89362',
+        nummer:'169',
       größe:'20x60',
       },
       {
@@ -604,7 +604,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl Pooring Leinwand',preis: '200',
         status: 'Vorhanden',
         name:'Algenblüten 2',
-        nummer:'89362',
+        nummer:'170',
       größe:'20x60',
       },
       {
@@ -612,7 +612,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl Pooring Leinwand',preis: '200',
         status: 'Vorhanden',
         name:'Algenblüten 3',
-        nummer:'89362',
+        nummer:'171',
       größe:'20x60',
       },
       {
@@ -620,7 +620,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl Pooring Leinwand',preis: '200',
         status: 'Vorhanden',
         name:'Dragon Egg',
-        nummer:'89362',
+        nummer:'172',
         größe:'20x50',
       },
 
@@ -629,7 +629,7 @@ export default new Vuex.Store({
         beschreibung:'Öl auf Leinwand',preis: '300',
         status: 'Vorhanden',
         name:'Calla 1',
-        nummer:'89362',
+        nummer:'173',
         größe:'30x60',
       },
       {
@@ -637,7 +637,7 @@ export default new Vuex.Store({
         beschreibung:'Öl auf Leinwand',preis: '300',
         status: 'Vorhanden',
         name:'Calla 2',
-        nummer:'89362',
+        nummer:'174',
         größe:'30x70',
       },
       {
@@ -645,7 +645,7 @@ export default new Vuex.Store({
         beschreibung:'Öl auf Leinwand',preis: '300',
         status: 'Vorhanden',
         name:'Calla 3',
-        nummer:'89362',
+        nummer:'175',
       größe:'30x60',
       },
       {
@@ -653,7 +653,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl Pooring Leinwand',preis: '200',
         status: 'Vorhanden',
         name:'Algenblüten 4',
-        nummer:'89362',
+        nummer:'176',
       größe:'20x60',
       },
       {
@@ -661,7 +661,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl Pooring Leinwand',preis: '250',
         status: 'Vorhanden',
         name:'Einmündung',
-        nummer:'89362',
+        nummer:'177',
       größe:'20x50',
       },
       {
@@ -669,7 +669,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl Pooring Leinwand',preis: '250',
         status: 'Vorhanden',
         name:'Wellen',
-        nummer:'89362',
+        nummer:'178',
       größe:'20x50',
       },
       {
@@ -678,7 +678,7 @@ export default new Vuex.Store({
         preis: '250',
         status: 'Vorhanden',
         name:'Inspiration',
-        nummer:'89362',
+        nummer:'179',
       größe:'20x50',
       },
       {
@@ -687,7 +687,7 @@ export default new Vuex.Store({
         preis: '260',
         status: 'Vorhanden',
         name:'Bazillus',
-        nummer:'89362',
+        nummer:'180',
       größe:'20x50',
       },
       {
@@ -695,7 +695,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl Pooring Leinwand',preis: '400',
         status: 'Vorhanden',
         name:'Senneneruption',
-        nummer:'89362',
+        nummer:'181',
         größe:'30x70',
       },
       {
@@ -703,7 +703,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl auf Leinwand',preis: '200',
         status: 'Vorhanden',
         name:'Marmor',
-        nummer:'89362',
+        nummer:'182',
         größe:'30x40',
       },
       {
@@ -711,7 +711,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl Pooring Leinwand',preis: '150',
         status: 'Vorhanden',
         name:'Inspiration 2',
-        nummer:'89362',
+        nummer:'183',
         größe:'30x30',
       },
       {
@@ -719,7 +719,7 @@ export default new Vuex.Store({
         beschreibung:'Acryl Pooring Leinwand',preis: '500',
         status: 'Vorhanden',
         name:'Scalare',
-        nummer:'89362',
+        nummer:'184',
         größe:'50x50',
       },
       {
@@ -727,7 +727,7 @@ export default new Vuex.Store({
         beschreibung:'Öl auf Leinwand',preis: '700',
         status: 'Vorhanden',
         name:'Sakura',
-        nummer:'89362',
+        nummer:'185',
         größe:'40x50 30x40',
       }
       ]
